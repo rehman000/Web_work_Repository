@@ -1,0 +1,24 @@
+/*remember to make the inputs actually look good and everything else*/
+/* REMMEBER get a nice new shiny font*/
+
+html {
+    background-color: aqua;
+    }
+
+.top {
+    display: flex;
+}
+
+ol {
+    list-style: none;
+}
+
+.container {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
